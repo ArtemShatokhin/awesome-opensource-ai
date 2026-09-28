@@ -451,6 +451,8 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Strands Agent Harness](https://github.com/strands-agents/harness-sdk) - Production SDK and harness runtime for building, monitoring, and controlling end-to-end AI agent lifecycles in Python and TypeScript. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/strands-agents/harness-sdk?style=social)
 - [StarNet](https://github.com/androoAGI/starnet) - Local-first desktop multi-agent harness with persistent workspaces, capability-scoped tools, agent memory, budgets, schedules, and live runtime visualization. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/androoAGI/starnet?style=social)
 
+- [Kortix](https://github.com/kortix-ai/suna) - Open-source AI Management System for running a company's agent workforce: agents, skills, memory, connectors and triggers are files in one git repo you own, every session runs on its own isolated Linux machine, and work lands as a human-reviewed change request. Any model with your own keys; self-host (laptop, VPS, VPC or on-prem) or managed cloud. Elastic License 2.0. Comparison hub: [opensourcecopilotalternative.com](https://opensourcecopilotalternative.com). ![GitHub stars](https://img.shields.io/github/stars/kortix-ai/suna?style=social)
+
 #### Agent Protocols & Standards
 
 - [Agent Gateway](https://github.com/agentgateway/agentgateway) - Next-generation proxy and routing layer for AI agents and MCP servers, with Kubernetes-native transport, protocol interoperability, and service-mesh-style isolation for reliable agent infrastructure. Apache 2.0 licensed. ![GitHub stars](https://img.shields.io/github/stars/agentgateway/agentgateway?style=social)
